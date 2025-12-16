@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://muhammadwaheedairi.github.io',
+  url: 'https://sarmadlaghari.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/hackathon_textbook_ai_robotics/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'muhammadwaheedairi', // Usually your GitHub org/user name.
+  organizationName: 'sarmadlaghari', // Usually your GitHub org/user name.
   projectName: 'hackathon_textbook_ai_robotics', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics/edit/main/my-website/',
+            'https://github.com/Sarmadlaghari/hackathon_textbook_ai_robotics/edit/main/my-website/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics/edit/main/my-website/',
+            'https://github.com/Sarmadlaghari/hackathon_textbook_ai_robotics/edit/main/my-website/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -98,7 +98,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics',
+          href: 'https://github.com/Sarmadlaghari/hackathon_textbook_ai_robotics',
           label: 'GitHub',
           position: 'right',
         },
@@ -142,7 +142,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics',
+              href: 'https://github.com/Sarmadlaghari/hackathon_textbook_ai_robotics',
             },
           ],
         },
