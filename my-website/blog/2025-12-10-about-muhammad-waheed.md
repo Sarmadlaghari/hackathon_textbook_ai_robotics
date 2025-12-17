@@ -1,14 +1,14 @@
 ---
-title: "About the Author: Muhammad Waheed"
+title: "About the Author: Sarmad Laghari"
 tags: [author, ai, robotics, education]
-description: "Learn about Muhammad Waheed, the creator behind the AI-Native Textbook for Physical AI & Humanoid Robotics"
+description: "Learn about Sarmad Laghari, the creator behind the AI-Native Textbook for Physical AI & Humanoid Robotics"
 ---
 
-# About the Author: Muhammad Waheed
+# About the Author: Sarmad Laghari
 
 ## Professional Background & Expertise
 
-I'm Muhammad Waheed, an AI and robotics enthusiast with a passion for creating accessible educational content in the field of Physical AI and Humanoid Robotics. My journey in technology has been focused on bridging the gap between complex AI concepts and practical robotics applications.
+this is Sarmad Laghari, an AI and robotics enthusiast with a passion for creating accessible educational content in the field of Physical AI and Humanoid Robotics. My journey in technology has been focused on bridging the gap between complex AI concepts and practical robotics applications.
 
 My expertise spans across multiple domains including:
 - Artificial Intelligence and Machine Learning
